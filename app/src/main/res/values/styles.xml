@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Base Application them.-->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Primary brand color. -->
+    <item name="colorPrimary">@color/white</item>
+    <item name="colorPrimaryVariant">@color/black</item>
+    <item name="colorOnPrimary">@color/cardview_shadow_start_color</item>
+    <!-- Secondary brand color.-->
+</style>
+<style name="AppTheme.NoActionBar">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+</style>
+</resources>
